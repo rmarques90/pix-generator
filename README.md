@@ -1,4 +1,4 @@
-### PIX Generator
+# PIX Generator
 
 Application to build PIX QR CODE and String CODE on demand.
 
